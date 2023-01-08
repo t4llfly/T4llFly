@@ -1,4 +1,9 @@
-### Hi there 👋
+### Говнарь?
+
+- 🧑‍💻 Учу Python, PHP
+- 🛠️ Делаю бесполезные проекты
+- 🌿 Cервер [DM Craft](https://discord.com/invite/D5Wyvgc6qg)
+- 🎮 Заходи на [Twitch](https://twitch.tv/tallflylive)
 
 <!--
 **T4llFly/T4llFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
