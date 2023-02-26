@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Учу Python, PHP
 - 🛠️ Делаю бесполезные проекты
-- 🌿 Cервер [DM Craft](https://discord.com/invite/D5Wyvgc6qg)
+- 🌿 Cервер [Catangens](https://catangens.ru)
 - 🎮 Заходи на [Twitch](https://twitch.tv/tallflylive)
 
 <!--
