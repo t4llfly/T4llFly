@@ -1,9 +1,13 @@
 ### Говнарь?
 
-- 🧑‍💻 Учу Python, PHP
+- 🧑‍💻 Учу ![Node.js](https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white)
 - 🛠️ Делаю бесполезные проекты
 - 🌿 Cервер [Catangens](https://catangens.ru)
-- 🎮 Заходи на [Twitch](https://twitch.tv/tallflylive)
+
+### Я есть здесь:
+[![Вконтакте](https://img.shields.io/badge/Вконтакте-blue?logo=vk)](https://vk.com/tallfly)
+[![YouTube](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/@T4llFly)
+[![TallFly#4123](https://img.shields.io/badge/DesConnet%239393-7289DA?logo=discord&logoColor=white)](https://discord.com/users/478115060791640105/)
 
 <!--
 **T4llFly/T4llFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
