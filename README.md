@@ -6,7 +6,7 @@
 
 ### Я есть здесь:
 [![Вконтакте](https://img.shields.io/badge/Вконтакте-blue?logo=vk)](https://vk.com/tallfly)
-[![YouTube](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/@T4llFly)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://youtube.com/@T4llFly)
 [![TallFly#4123](https://img.shields.io/badge/TallFly%234123-7289DA?logo=discord&logoColor=white)](https://discord.com/users/478115060791640105/)
 
 <!--
