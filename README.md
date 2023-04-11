@@ -1,6 +1,6 @@
 ### воу
 
-- 🧑‍💻 Учу ![Node.js](https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white)
+- 🧑‍💻 Учу ![Node.js](https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white)
 - 🛠️ Делаю бесполезные проекты
 - 🌿 Cервер [Catangens](https://catangens.ru)
 
